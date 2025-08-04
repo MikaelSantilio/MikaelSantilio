@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm **Mikael Santilio**, a Brazilian 🇧🇷 **Back-End Developer** with experience in building APIs, managing databases, and working with data analysis.  
-Currently working at [Speedio](https://www.speedio.com.br/) as a **Mid-level Backend Developer**, specialized in **Ruby on Rails** and **MongoDB**, with a strong foundation in programming logic, database architecture, and problem-solving.  
+Currently working as a **Mid-level Backend Developer**, specialized in **Ruby on Rails** and **MongoDB**, with a strong foundation in programming logic, database architecture, and problem-solving.  
 
 I'm passionate about learning new technologies and applying concepts that can adapt to different contexts. I enjoy working on projects from the initial idea to backend implementation, always aiming to create solutions that deliver real value to the end user.  
 
